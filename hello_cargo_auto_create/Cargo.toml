@@ -1,0 +1,6 @@
+[package]
+name = "hello_cargo_auto_create"
+version = "0.1.0"
+authors = ["Shaoyao·琚 <jjzhiyuan@gmail.com>"]
+
+[dependencies]
